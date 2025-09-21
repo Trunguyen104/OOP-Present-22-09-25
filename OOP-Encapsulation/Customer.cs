@@ -21,6 +21,16 @@ namespace OOP_Encapsulation
                 Id = value;
             }
         }
+        // <=> java
+        //public int GetId()
+        //{
+        //    return Id;
+        //}
+        //public void SetId(int value)
+        //{
+        //    Id = value;
+        //}
+
         //Automatic properties
         public string CustomerName { get; set; } = "New customer";
         public void Print()

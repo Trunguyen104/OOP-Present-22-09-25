@@ -33,7 +33,7 @@
             ////Ex2
             //string name = "prn212";
             //Console.WriteLine(name.ToUpperFirst());
-            //// <=> Utils.ToUpperFirst(name
+            //// <=> Utils.ToUpperFirst(name);
             Console.ReadLine();
         }
     }
